@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="heroku-demo Maven Webapp:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/heroku_demo_Maven_Webapp_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="heroku-demo Maven Webapp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="heroku-demo Maven Webapp" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
